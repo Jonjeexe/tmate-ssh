@@ -1,1 +1,1 @@
-# tmate-ssh
+termux tmate-ssh
